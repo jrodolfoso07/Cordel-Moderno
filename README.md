@@ -1,4 +1,1 @@
-# Cordel-Moderno
-Projeto Cordel Moderno
-
-Acesse: https://orodolfoso.github.io/Cordel-Moderno/
+<a href="https://orodolfoso.github.io/Cordel-Moderno/">Projeto Cordel Moderno</a>
